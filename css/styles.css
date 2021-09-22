@@ -1,0 +1,77 @@
+.nav-brand {
+    padding-left: 100px;
+    font-family: "Roboto";
+}
+
+.nav-button {
+    font-size: 80%;
+    text-decoration: none;
+    color: white;
+    margin: auto 1px;
+}
+
+.theater-img {
+    width:100%
+}
+
+.center-text {
+    position: absolute;
+    top: 450px;
+    left: 450px;
+    width: 100%;
+    color: white;
+    font-size: 150px;
+    font-family: "Roboto";
+}
+
+.date {
+    background-color: lightgray;
+    border-style: solid;
+    border-width: thin;
+    font-family: "Roboto";
+    margin: 100px auto 50px;
+    padding-left: 50px;
+}
+
+.show-img {
+    width: 300px;
+    height: 225px;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    border-style: solid;
+    border-width: thin;
+    font-family: "Roboto";
+    height: 75px;
+    width: 175px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+hr {
+    width: 68%;
+    margin: auto;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: black;
+}
+
+.map {
+    width: 600px;
+    height: 500px;
+    padding: 10px 60px 140px 140px;
+}
+
+section {
+    display: inline-block;
+    color: white;
+    margin: 100px 125px 125px auto;
+}
